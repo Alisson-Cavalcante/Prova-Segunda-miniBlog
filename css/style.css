@@ -1,0 +1,84 @@
+.foto img{
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid black;
+}
+
+.foto{
+    padding-left:550px; 
+}
+
+.nav span,a {
+    background-color: silver;
+    color: white;
+    text-decoration: none;
+}
+
+.nav{
+    background-color: silver;
+}
+
+.abaixoft table img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.abaixoft{
+    padding-left: 500px;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: aqua;
+}
+
+body{
+    background-color: bisque
+}
+
+.foto-projeto{
+    padding-left: 420px;
+}
+
+.main--contact form{
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+}
+.label {
+    display: flex ;
+    flex-direction:column;
+    row-gap: 10px;
+    width: 40%;
+
+}
+input, textarea{
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+.form--message-input{
+    width: 100%;
+}
+textarea {
+    
+    
+    height: 150px;
+}
+
+button{
+
+    border: none;
+    color: white;
+    border-radius: 8px;
+    background-color: blue;
+    width: 220px;
+    padding: 16px 0;
+
+}
